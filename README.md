@@ -1,5 +1,9 @@
 ### Hi there 👋
+👋 Hello! I'm Nirapadak Pal,
 
+
+
+🚀Results-driven Senior Android Developer with 1+ years of experience creating innovative mobile applications. Expert in Kotlin, Java, MVVM architecture, Koin, coroutine, RxJava, and Jetpack. Proven track record leading development for premium household shopping, delivery systems, and inventory apps. 🌐
 <!--
 **developerNir/developerNir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌟Key skills:
+Android · java . kotlin . dart . flutter . Git · Dependency Injection · Dependency Injection · Software Design Patterns · Inter-process Communication · Skill Development · Gradle · Mobile Application Design · Bitbucket · Version Control · API Development · Android · Android Development · Google Analytics· Compose UI · MVVM · Design Patterns · Material Design . UI design.
+
+🌟Language:
+English (Fluent) · Bangla (Native)
