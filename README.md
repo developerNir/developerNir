@@ -3,7 +3,7 @@
 
 
 
-🚀Results-driven Senior Android Developer with 1+ years of experience creating innovative mobile applications. Expert in Kotlin, Java, MVVM architecture, Koin, coroutine, RxJava, and Jetpack. Proven track record leading development for premium household shopping, delivery systems, and inventory apps. 🌐
+🚀Results-driven Android Developer with 1+ years of experience creating innovative mobile applications. Expert in Kotlin, Java, MVVM architecture, Koin, coroutine, RxJava, and Jetpack. Proven track record leading development for premium household shopping, delivery systems, and inventory apps. 🌐
 <!--
 **developerNir/developerNir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
